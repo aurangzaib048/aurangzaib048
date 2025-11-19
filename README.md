@@ -15,21 +15,6 @@ You can find me on:
 
 
 
-### 📜 GitHub Statistics
-
-<br>
-  
-[![aurangzaib048's GitHub stats][2]][1]
-
-[![aurangzaib048's most used languages][3]][1]
-  
-<br>
-
-<!--  Link References  -->
-
-[1]: https://github.com/anuraghazra/github-readme-stats
-[2]: https://github-readme-stats.vercel.app/api?username=nicomiguelino&show_icons=true&theme=buefy&count_private=true
-[3]: https://github-readme-stats.vercel.app/api/top-langs/?username=nicomiguelino&layout=compact&theme=buefy&hide=php
 <!--
 ### Hi there 👋
 **aurangzaib048/aurangzaib048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
