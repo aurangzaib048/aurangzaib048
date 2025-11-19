@@ -15,7 +15,15 @@ You can find me on:
 
 
 
+### 📜 GitHub Statistics
 
+<br>
+  
+[![aurangzaib048's GitHub stats][2]][1]
+
+[![aurangzaib048's most used languages][3]][1]
+  
+<br>
 <!--
 ### Hi there 👋
 **aurangzaib048/aurangzaib048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
